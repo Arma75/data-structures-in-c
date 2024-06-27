@@ -1,28 +1,28 @@
 # 목차
-+ [`연결 리스트(Linked List)`](#연결-리스트linked-list)
-   	1. [**단일 연결 리스트**(Singly Linked List)](#단일-연결-리스트singly-linked-list)
-   	2. [**단일 순환 연결 리스트**(Singly Circular Linked List)]()
-   	3. [**이중 연결 리스트**(Doubly Linked List)]()
-   	4. [**이중 순환 연결 리스트**(Doubly Circular Linekd List)]()
-+ `스택(Stack)`
-   	1. [**배열 기반 스택**(Array Based Stack)]()
-   	2. [**리스트 기반 스택**(List Based Stack)]()
-+ `큐(Queue)`
-   	1. [**배열 기반 큐**(Array Based Queue)]()
-   	2. [**리스트 기반 큐**(List Based Queue)]()
-   	3. [**순환 큐**(Circular Queue)]()
-   	4. [**덱**(Deque)]()
-+ `트리(Tree)`
-   	1. [**트리**(Tree)]()
-   	2. [**이진 트리**(Binary Tree)]()
-   	3. [**이진 탐색 트리**(Binary Search Tree)]()
-   	4. [**트라이**(Trie)]()
-+ `그래프(Graph)`
-	1. [**무방향 그래프**(Undirected Graph)]()
- 	2. [**방향 그래프**(Directed Graph)]()
-  	3. [**가중치 그래프**(Weighted Graph) ]()
-+ `해시 테이블(Hash Table)`
-    1. [**해시 테이블**(Hash Table)]()
++ [**`연결 리스트(Linked List)`**](#연결-리스트linked-list)
+   	1. [단일 연결 리스트(Singly Linked List)](#단일-연결-리스트singly-linked-list)
+   	2. [단일 순환 연결 리스트(Singly Circular Linked List)]()
+   	3. [이중 연결 리스트(Doubly Linked List)]()
+   	4. [이중 순환 연결 리스트(Doubly Circular Linekd List)]()
++ **`스택(Stack)`**
+   	1. [배열 기반 스택(Array Based Stack)]()
+   	2. [리스트 기반 스택(List Based Stack)]()
++ **`큐(Queue)`**
+   	1. [배열 기반 큐(Array Based Queue)]()
+   	2. [리스트 기반 큐(List Based Queue)]()
+   	3. [순환 큐(Circular Queue)]()
+   	4. [덱(Deque)]()
++ **`트리(Tree)`**
+   	1. [트리(Tree)]()
+   	2. [이진 트리(Binary Tree)]()
+   	3. [이진 탐색 트리(Binary Search Tree)]()
+   	4. [트라이(Trie)]()
++ **`그래프(Graph)`**
+	1. [무방향 그래프(Undirected Graph)]()
+ 	2. [방향 그래프(Directed Graph)]()
+  	3. [가중치 그래프(Weighted Graph) ]()
++ **`해시 테이블(Hash Table)`**
+    1. [해시 테이블(Hash Table)]()
 
 ## 연결 리스트(Linked List)
 ### 단일 연결 리스트(Singly Linked List)
