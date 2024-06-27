@@ -1,7 +1,7 @@
 # 목차
 + [`연결 리스트(Linked List)`](#연결-리스트linked-list)
    	1. [**단일 연결 리스트**(Singly Linked List)](#단일-연결-리스트singly-linked-list)
-   	2. [**단일 순환 연결 리스트**(Singly Circular Linked List)]
+   	2. [**단일 순환 연결 리스트**(Singly Circular Linked List)]()
    	3. [**이중 연결 리스트**(Doubly Linked List)]()
    	4. [**이중 순환 연결 리스트**(Doubly Circular Linekd List)]()
 + `스택(Stack)`
