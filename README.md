@@ -24,9 +24,9 @@
 + `해시 테이블(Hash Table)`
     1. [**해시 테이블**(Hash Table)]()
 
-# 연결 리스트(Linked List)
-## 단일 연결 리스트(Singly Linked List)
-### 구조체 선언
+## 연결 리스트(Linked List)
+### 단일 연결 리스트(Singly Linked List)
+#### 구조체 선언
 ```c
 typedef struct SinglyLinkedNode {
     int data;
@@ -39,7 +39,7 @@ typedef struct {
     int size;
 } SinglyLinkedList;
 ```
-### 함수 목록
+#### 함수 목록
 |NO|METHOD                                                              |DESCRIPTION
 |-:|:-------------------------------------------------------------------|:--
 | 1|SinglyLinkedNode* create_node(int data)                             |데이터를 가지고 있는 새로운 노드를 생성합니다.
